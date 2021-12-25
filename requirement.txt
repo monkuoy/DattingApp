@@ -1,0 +1,18 @@
+App technologoies
+1. .Net Core
+2. Angula
+3. Entity Framework
+
+=> Others 
+1. html5
+2. bootstrap
+3. css
+4. TypeScript
+5. C#
+==>Dotnet
+Version 5.0.40
+
+==> VSCode Extension
+1. c#
+2. c# extension
+3. Nuget Gallary
