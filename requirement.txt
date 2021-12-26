@@ -16,3 +16,5 @@ Version 5.0.40
 1. c#
 2. c# extension
 3. Nuget Gallary
+==> If anuglar cannot run by powershell 
+we can open powershell and type: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
