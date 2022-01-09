@@ -1,3 +1,7 @@
 {
-    "angular.enable-strict-mode-prompt": false
+    "angular.enable-strict-mode-prompt": false,
+    "workbench.preferredHighContrastColorTheme": "Monokai Dimmed",
+    "workbench.preferredDarkColorTheme": "Tomorrow Night Blue",
+    "workbench.preferredLightColorTheme": "Tomorrow Night Blue",
+    "workbench.colorTheme": "Visual Studio Light"
 }
